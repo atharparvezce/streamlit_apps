@@ -1,0 +1,3 @@
+==> 2025-01-24 19:01:37 <==
+# cmd: /opt/anaconda3/bin/conda create -p streamlit_env
+# conda version: 24.11.3
