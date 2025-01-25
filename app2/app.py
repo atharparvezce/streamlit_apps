@@ -96,3 +96,4 @@ st.markdown(
     "- Stay hydrated and take short walks to refresh your mind.\n"
     "- Reward yourself after completing a session to stay motivated."
 )
+
